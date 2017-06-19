@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Packt Free Ebook</string>
+
+    <string name="header">Packt Free Book</string>
+    <string name="no_title">no title yet</string>
+    <string name="no_expiration_time">no expiration time yet</string>
+
+</resources>
